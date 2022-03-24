@@ -5,7 +5,7 @@ body {
 header {
         width: 100%;
         height: 100px;
-        background-image: url("/class/images/syed.jpg");
+        background-image: url("/images/syed.jpg");
         background-size: cover;
         background-repeat: no-repeat;
         display: flex;
@@ -234,7 +234,7 @@ border: none;
 .Samples {
     width: 1200px;
     height: 1080px;
-    background-image: url("/class/images/syed.jpg");
+    background-image: url("/images/syed.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     margin-left:auto;
@@ -377,7 +377,7 @@ border: none;
 footer {
     width: 1440px;
     height: 100px;
-    background-image: url("/class/images/syed.jpg");
+    background-image: url("/images/syed.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     margin-left: auto;
